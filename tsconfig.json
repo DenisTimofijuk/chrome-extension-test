@@ -29,9 +29,7 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "./src"
+    "./src",
+    "./types"
   ],
-  "files": [
-    "./vue-shims.d.ts"
-  ]
 }

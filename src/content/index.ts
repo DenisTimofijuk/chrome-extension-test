@@ -1,1 +1,1 @@
-console.log('Hey, the content script is running!');
+const myinput = 1;
